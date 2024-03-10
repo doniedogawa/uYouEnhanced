@@ -16,7 +16,7 @@ on:
         default: "3.0.3"
         required: true
         type: string
-      decrypted_youtube_url:
+      decrypted_youtube_url: https://decrypt.day/app/id544007664/dl/cltgwm9hh017oojcz1h8nx149
         description: "The direct URL to the decrypted YouTube ipa"
         default: ""
         required: true
